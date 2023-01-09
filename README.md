@@ -57,6 +57,7 @@ httpd.serve_forever()
 
 ```
 # OUTPUT:
-![](Screenshot%20(33).png)
+![Screenshot (33)](https://user-images.githubusercontent.com/118787417/211242377-6fa705f1-d45c-460f-ae01-c26ce01427e5.png)
+
 # RESULT:
 The program is executed succesfully
